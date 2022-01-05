@@ -1,6 +1,6 @@
 <h1> POINTER DETECTION
 
-<h2> Team : </h2>
+<h2> Team : All Stars </h2>
 <h2> Yash Mathur </h2>
 <h2> Shreyas Jadhav </h2>
 <h2> Hritik Bohra </h2>
