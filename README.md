@@ -16,4 +16,4 @@
 </p>
 
 <p> Our CNN Model was : 
-<img src="https://user-images.githubusercontent.com/67051799/148288341-df54ac1d-bf22-49a8-8d1c-3b70051f050c.png" />
+<img src="https://user-images.githubusercontent.com/67051799/148288341-df54ac1d-bf22-49a8-8d1c-3b70051f050c.png" style="background-color: transparent"/>
