@@ -36,3 +36,6 @@
   <img src = "https://user-images.githubusercontent.com/67051799/148290468-9a155854-c385-4d00-8a62-eb5556f71432.jpg" />
   <img src = "https://user-images.githubusercontent.com/67051799/148290597-e9b0b780-4e67-4de6-94fc-58bffaa7aa03.jpg" />
   
+  <h3> Model Classification Report On The Public Test Data </h3>
+  
+  <img src = "https://user-images.githubusercontent.com/67051799/148290788-ddae7eac-b6cc-4209-8ea5-faac53479e73.png" />
