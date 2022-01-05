@@ -39,3 +39,6 @@
   <h3> Model Classification Report On The Public Test Data </h3>
   
   <img src = "https://user-images.githubusercontent.com/67051799/148290788-ddae7eac-b6cc-4209-8ea5-faac53479e73.png" />
+  
+  <h3> ROC Curve for Model Based On Predictions Made on The Public Test Data : </h3>
+  <img src = "https://user-images.githubusercontent.com/67051799/148291065-5da6da68-f016-4c93-b397-42b51c1a42c6.png" />
