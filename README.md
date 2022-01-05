@@ -15,7 +15,7 @@
 <p> On Training This Model we got a 57.26% Accuracy on the Validation Data Set. Since Accuracy is pretty bad so we discarded this model and rather tried a better model
 </p>
 
-<p> Our CNN Model was : 
+  <p> Our CNN Model was : </p>
 <img src="https://user-images.githubusercontent.com/67051799/148288341-df54ac1d-bf22-49a8-8d1c-3b70051f050c.png" />
   
 <p> The Next Model we tried was CNN + LSTM Model. CNN Takes care of learning The Spatial Features and The LSTM Network takes care of Sequence Based Learning </p>
