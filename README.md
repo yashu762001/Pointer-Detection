@@ -30,3 +30,9 @@
     
   <img src = "https://user-images.githubusercontent.com/67051799/148290038-8d33c95b-44a5-4bd5-8362-b6ea582b1970.png" />
   <img src = "https://user-images.githubusercontent.com/67051799/148290102-a08a89c0-00f2-407c-81b0-4911e80241a7.png" />
+  
+  <h3> Training Losses and Accuracy Versus Number of Epochs </h3>
+  
+  <img src = "https://user-images.githubusercontent.com/67051799/148290468-9a155854-c385-4d00-8a62-eb5556f71432.jpg" />
+  <img src = "https://user-images.githubusercontent.com/67051799/148290597-e9b0b780-4e67-4de6-94fc-58bffaa7aa03.jpg" />
+  
