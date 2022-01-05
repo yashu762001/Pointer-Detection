@@ -28,5 +28,5 @@
  
   <p> CNN + LSTM Model looked something like this : </p>
     
-      <img src = "https://user-images.githubusercontent.com/67051799/148290038-8d33c95b-44a5-4bd5-8362-b6ea582b1970.png" />
-      <img src = "https://user-images.githubusercontent.com/67051799/148290102-a08a89c0-00f2-407c-81b0-4911e80241a7.png" />
+  <img src = "https://user-images.githubusercontent.com/67051799/148290038-8d33c95b-44a5-4bd5-8362-b6ea582b1970.png" />
+  <img src = "https://user-images.githubusercontent.com/67051799/148290102-a08a89c0-00f2-407c-81b0-4911e80241a7.png" />
